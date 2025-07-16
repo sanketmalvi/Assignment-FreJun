@@ -94,7 +94,7 @@ export default function CommentTable({ searchQuery }) {
 
   return (
     <div className="p-6 bg-gray-50 min-h-screen rounded-md shadow-md">
-      <h2 className="text-2xl font-semibold mb-4 text-center text-gray-700">Comments Table</h2>
+      <h2 className="text-2xl font-semibold mb-4 text-center text-gray-700">Table</h2>
       <div className="overflow-x-auto bg-white rounded shadow">
         <table className="w-full table-auto border border-gray-200">
           <thead className="bg-blue-100 text-gray-700">

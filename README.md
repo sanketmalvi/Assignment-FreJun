@@ -14,3 +14,9 @@ A simple Single Page Application built with React and Tailwind CSS to display, s
 
 - React (Vite)
 - Tailwind CSS
+
+**Visit the app**
+
+```
+https://assignment-fre-jun.vercel.app/
+```
